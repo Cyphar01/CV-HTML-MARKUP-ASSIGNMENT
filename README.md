@@ -57,10 +57,8 @@
                 <li>Led and mentor senior management and staff, fostering a culture of collaboration and excellence.</li>
                </ul>
            </p>
-
-       </section>
-
-       <section>
+</section>
+<section>
         <h2>Skills</h2>
         <div>
             <h4>HTML</h4>
