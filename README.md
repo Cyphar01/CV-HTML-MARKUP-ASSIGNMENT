@@ -7,7 +7,7 @@
 </head>
 <body>
    <header>
-    <h1>Oranezimife Nnamdi Sydney</h1>
+    <h1>Oranezimife Nnamdi</h1>
     <ul>
         <li>1 Ojuolape's Court, Seaside Estate, Lekki, Lagos, Nigeria. Zip: 106104</li>
         <li>oranezimifennamdi@gmail.com</li>
@@ -23,7 +23,6 @@
             focusing on the MERN stack (MongoDB, Express.js, React, and Node.js).
            </p>
         </section>
-
         <section>
            <h2>Employment History</h2>
            <div>
